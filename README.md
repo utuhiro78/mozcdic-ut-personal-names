@@ -5,7 +5,7 @@ date: 2023-01-15
 
 ## Overview
 
-Mozc UT Personal Name Dictionary is a personal name dictionary for Mozc.
+Mozc UT Personal Name Dictionary is a dictionary for Mozc.
 
 ## License
 
