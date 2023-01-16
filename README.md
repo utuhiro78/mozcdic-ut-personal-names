@@ -9,7 +9,7 @@ Mozc UT Personal Name Dictionary is a dictionary for Mozc.
 
 ## License
 
-APACHE LICENSE, VERSION 2.0
+Apache License, Version 2.0
 
 ## Usage
 
