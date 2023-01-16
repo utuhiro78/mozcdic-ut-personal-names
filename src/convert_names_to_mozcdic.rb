@@ -16,14 +16,9 @@ file.close
 
 lines.length.times do |i|
 	s = lines[i].split("	")
-	yomi = s[0]
-	hyouki = s[-1]
-
-	lines[i] =  yomi + "	" + id_mozc + "	" + id_mozc + "	8000	" + hyouki
+	s[1..3] = [id_mozc, id_mozc, "8000"]
+	lines[i] = s.join("	")
 end
-
-# 重複する行を削除
-lines = lines.uniq.sort
 
 dicfile = File.new(dicname, "w")
 	dicfile.puts lines
