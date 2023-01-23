@@ -25,13 +25,4 @@ To modify the costs for words or merge multiple UT dictionaries into one, use th
 
 [merge-ut-dictionaries](https://github.com/utuhiro78/merge-ut-dictionaries)
 
-## If you create your own UT dictionary
-
-Requirement(s): ruby, rsync
-
-```
-cd src/
-sh make.sh
-```
-
 [HOME](http://linuxplayers.g1.xrea.com/mozc-ut.html)
