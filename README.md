@@ -1,8 +1,3 @@
----
-title: Mozc UT Personal Name Dictionary
-date: 2023-01-15
----
-
 ## Overview
 
 Mozc UT Personal Name Dictionary is a dictionary for Mozc.
