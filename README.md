@@ -1,6 +1,6 @@
 ## Overview
 
-Mozc UT Personal Name Dictionary is a dictionary for Mozc.
+A Personal Name Dictionary for Mozc.
 
 ## License
 
@@ -8,7 +8,7 @@ Apache License, Version 2.0
 
 ## Usage
 
-Add mozcdic-ut-*.txt to dictionary00.txt and build Mozc as usual.
+Add the dictionary to dictionary00.txt and build Mozc as usual.
 
 ```
 tar xf mozcdic-ut-*.txt.tar.bz2
