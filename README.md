@@ -1,6 +1,6 @@
 ## Overview
 
-A Personal Name Dictionary for Mozc.
+A personal name dictionary for Mozc.
 
 ## License
 
