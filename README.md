@@ -10,4 +10,4 @@ Apache License, Version 2.0
 
 See [merge-ut-dictionaries](https://github.com/utuhiro78/merge-ut-dictionaries).
 
-[HOME](http://linuxplayers.g1.xrea.com/mozc-ut.html)
+[HOME](https://utuhiro78.github.io/linuxplayers/mozc-ut.html)
